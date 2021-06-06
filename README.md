@@ -1,2 +1,2 @@
 # Random-Profile-Maker
-Created with CodeSandbox
+Generates random profiles, created using react and randomuser Api.
